@@ -3,7 +3,7 @@ BioImage Archive training materials
 
 Working with public image data as OME-Zarr [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bioimage-archive/bia-training/blob/main/notebooks/Working-with-public-image-data-as-OME-Zarr.ipynb)
 
-Working with plant image data as OME-Zarr [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bioimage-archive/bia-training/blob/main/notebooks/Working-with-plant-image-data-as-OME-Zarr.ipynb)
+Working with plant image data as OME-Zarr [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bioimage-archive/bia-training/blob/main/notebooks/Working_with_plant_image_data_as_OME_Zarr.ipynb)
 
 Simple use examples for BIA explorer [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bioimage-archive/bia-training/blob/main/notebooks/Simple_example_use_bia_explorer.ipynb)
 
